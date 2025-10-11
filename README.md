@@ -1,7 +1,7 @@
 # SCANTEX
 Auto scanner for Acunetix
 
-CANTEX automates subdomain scanning via Acunetix:
+SCANTEX automates subdomain scanning via Acunetix:
 
 - Discovers subdomains using `SubFinder`
 - Checks live hosts with `httpx`
