@@ -13,8 +13,9 @@ SCANTEX automates subdomain scanning via Acunetix:
 ###  How It Works
 
 1. Put domains in `target.txt`
-2. Run `./scantex.py`
-3. It handles everything:
+2. Format Domain test.com  *no http/https
+3. Run `./scantex.py`
+4. It handles everything:
    - Scans for subdomains
    - Checks live hosts
    - Adds to Acunetix
